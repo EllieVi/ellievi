@@ -1,4 +1,5 @@
-### Olá!
+### let techStudies = 'React JS, Javascript, HTML, CSS, MongoDB.'
+<p>{techStudies}</p>
 
 
  <div>
